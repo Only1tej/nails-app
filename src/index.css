@@ -1,17 +1,18 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-playball {
+  font-family: "Playball-Regular";
+}
+
+.font-apollo {
+  font-family: "Trebuchet MS";
+}
+
+.font-hip {
+  font-family: "Franklin Gothic Medium";
+}
+
+/* ', 'Arial Narrow', Arial, sans-serif */
+/* , 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif */
