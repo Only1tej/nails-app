@@ -1,4 +1,8 @@
-/* @font-face {
+@font-face {
   font-family: "playball";
-  src: local("Playball"), url("./fonts/Playball-Regular.ttf") format("truetype");
-} */
+  src: url("./fonts/Playball-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url("./fonts/Montserrat-Light.ttf") format("truetype");
+}
